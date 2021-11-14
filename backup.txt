@@ -1,1 +1,9 @@
 Test
+
+SQL Formatter 
+https://www.dpriver.com/pp/sqlformat.htm
+
+https://tomgregory.com/how-to-measure-code-coverage-using-sonarqube-and-jacoco/
+
+https://myrelocation.graebel.com/Main/OtherPages/SignIn.aspx
+https://app3.gadeloitte.com/IASTCPortal/login
